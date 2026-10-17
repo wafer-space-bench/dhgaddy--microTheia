@@ -1,0 +1,28 @@
+source:
+  url: https://github.com/dhgaddy/microTheia
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: Apache-2.0
+  upstream_default_branch: main
+tapeouts:
+- org: wafer.space
+  run: ws-run2
+  slot: SCMT
+  project: microTheia
+  size: 1x1
+  kind: digital
+  commit: ef69ed4d92c4
+  commit_source: design_ref head recorded by the ws-run1/2 audit
+  tag: wafer.space/ws-run2/SCMT
+  branch: tapeout/wafer.space/ws-run2/SCMT
+  page: https://wafer.space/ws-run2/
+generated: '2026-10-17T23:27:38Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/wafer.space/ws-run2/SCMT
+- upstream/GLS_fix
+- upstream/fixes-update
+- upstream/main
