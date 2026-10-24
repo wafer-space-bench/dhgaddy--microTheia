@@ -12,12 +12,12 @@ tapeouts:
   project: microTheia
   size: 1x1
   kind: digital
-  commit: ef69ed4d92c4
+  commit: c7e20e046227
   commit_source: design_ref head recorded by the ws-run1/2 audit
   tag: wafer.space/ws-run2/SCMT
   branch: tapeout/wafer.space/ws-run2/SCMT
   page: https://wafer.space/ws-run2/
-generated: '2026-10-17T23:27:38Z'
+generated: '2026-10-24T08:07:52Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:

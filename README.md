@@ -12,7 +12,7 @@ Part of the [wafer.space GF180 benchmark](https://wafer-space-bench.github.io): 
 
 | Org | Run | Slot | Project | Size | Commit | Tag / branch |
 |---|---|---|---|---|---|---|
-| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | SCMT | microTheia | 1x1 | `ef69ed4d92c4` | [`wafer.space/ws-run2/SCMT`](https://github.com/wafer-space-bench/dhgaddy--microTheia/tree/tapeout/wafer.space/ws-run2/SCMT) |
+| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | SCMT | microTheia | 1x1 | `c7e20e046227` | [`wafer.space/ws-run2/SCMT`](https://github.com/wafer-space-bench/dhgaddy--microTheia/tree/tapeout/wafer.space/ws-run2/SCMT) |
 
 ## Branches
 
